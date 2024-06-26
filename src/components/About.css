@@ -1,0 +1,28 @@
+/* About.css */
+.about-page {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .about-text {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .about-developer {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;  /* Align text in the center of the developer section */
+  }
+  
+  .developer-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 8px;
+  }
+  

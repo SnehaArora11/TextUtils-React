@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.dark-mode {
+  background-color: #030835;
+  color: #fff;
+}
+
+/* .developer-image {
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+  border-radius: 8px;
+} */

@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+the only difference between javascript and jsx is the keywords used thats it egample classname is used instead of class and htmlFor instead of for 
+in react we can only return one element 
+or you can use jsx fragment that is an empty tag <> and </>
